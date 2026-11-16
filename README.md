@@ -8,3 +8,4 @@
 - Sequence-диаграммы
 
 Инструменты: Draw.io, BPMN 2.0, UML.
+диаграммы в картинках/to be Верх.drawio.png
